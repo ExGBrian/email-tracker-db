@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "email-tracker-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cc598d65-f10b-48ff-801e-a36fa2c61af0",
+			"database_name": "email-tracker-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
